@@ -1,0 +1,38 @@
+body{
+    background-color: lightcoral;
+}
+
+
+
+
+h1{ 
+    text-align: center;
+    border-bottom:0.2px solid black;
+    font-style: inherit;
+
+}
+h2{
+    text-align: center;
+
+}
+h3{
+    text-align: center;
+
+}
+h4{
+    text-align: center;
+}
+h5{
+    text-align: center;
+
+}
+.container {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    
+  }
+  
+  button {
+    padding: 10px 20px;
+  }

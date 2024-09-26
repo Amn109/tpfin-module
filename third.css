@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(62, 151, 164);
+
+}
+
+
+h1{ 
+    text-align: center;
+    border-bottom:0.2px solid black;
+    
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+figure{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #eaff04;
+    color: #ff01cc;
+  }

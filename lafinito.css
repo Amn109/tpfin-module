@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins' sans-serif;
+}
+
+body{
+    background-image: url(https://media.istockphoto.com/id/1770496978/fr/photo/bord-dune-feuille-de-papier-blanc-d%C3%A9chir%C3%A9-sur-fond-noir-trou-noir.jpg?s=2048x2048&w=is&k=20&c=3YLFdkI8vSeEIBtU18zJowzWSGdwZJ_80bE8x7xfwKY=);
+}
+
+
+.hero {
+    min-height: 100vh;
+    width: 100%;
+    background-image: url(https://38.media.tumblr.com/cf3d182d28905acee09c2cff0d977e1f/tumblr_njh7ftvNIW1so5odzo2_500.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 25%;
+    padding: 0 8%;
+
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0;
+
+}
+
+.logo{
+    width: 160px;
+
+
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 30px;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+
+}
